@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hotel Name</title>
+  <title>Reyansh Hotel</title>
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEJ1Q1K6jPYM7tQjb6pD1iO9wcz1GdZ4P4tCybGQJ6K0xLggYKTp4GmYp6bD2" crossorigin="anonymous">
   <style>
